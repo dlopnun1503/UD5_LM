@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="Libreria.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Libreria4.xsl"?>
 <libreria>
     <libro>
         <titulo>Physics-based animation</titulo>
@@ -7,7 +7,6 @@
         <editor>Charles River Media</editor>
         <isbn>978-1584503004</isbn>
         <precio>50.06</precio>
-        <numPaginas>150</numPaginas>
     </libro>
     <libro>
         <titulo>Principios de seguridad informatica para usuarios</titulo>
@@ -15,7 +14,6 @@
         <editor>Dykinson</editor>
         <isbn>978-84-9849-998-8</isbn>
         <precio>13.00</precio>
-        <numPaginas>200</numPaginas>
     </libro>
     <libro>
         <titulo>Ejercicios complementarios de logica digital</titulo>
@@ -23,22 +21,19 @@
         <editor>Dykinson</editor>
         <isbn>978-84-9849-703-8</isbn>
         <precio>12.00</precio>
-        <numPaginas>250</numPaginas>
     </libro>
     <libro>
-        <titulo>La Celestina</titulo>
-        <autor>Fernando de Rojas</autor>
+        <titulo>La Gitanilla</titulo>
+        <autor>Miguel de Cervantes</autor>
         <editor>Dykinson</editor>
         <isbn>978-84-9849-396-8</isbn>
-        <precio>9.00</precio>
-        <numPaginas>220</numPaginas>
+        <precio>10.50</precio>
     </libro>
     <libro>
         <titulo>Don Quijote de la Mancha</titulo>
         <autor>Miguel de Cervantes</autor>
         <editor>Dykinson</editor>
         <isbn>978-84-9849-677-8</isbn>
-        <precio>10.00</precio>
-        <numPaginas>450</numPaginas>
+        <precio>60.50</precio>
     </libro>
 </libreria>
