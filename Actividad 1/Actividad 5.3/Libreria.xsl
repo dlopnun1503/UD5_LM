@@ -8,11 +8,13 @@
                     <tr bgcolor="#887788">
                         <th>Titulo</th>
                         <th>Autor</th>
+                        <th>Precio</th>
                     </tr>
-                    <xsl:for-each select="libreria/libro">
+                    <xsl:for-each select="libreria/libro[autor='Miguel de Cervantes' and precio > 12]"> <!--SI CAMBIAMOS EL 12 POR UN 10 NOS APARECEN LOS DOS LIBROS-->
                     <tr>
                         <td><xsl:value-of select="titulo"/></td>
                         <td><xsl:value-of select="autor"/></td>
+                        <td><xsl:value-of select="precio"/></td>
                     </tr>
                     </xsl:for-each>
                  </table>
