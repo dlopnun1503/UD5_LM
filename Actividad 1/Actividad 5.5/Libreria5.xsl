@@ -3,30 +3,25 @@
 <xsl:template match="/">
       <html>
         <body>
-            <h1>Mi biblioteca</h1>
+            <h1>Mi biblioteca personal</h1>
                  <table>
                     <tr bgcolor="#887788">
                         <th>ISBN</th>
-                        <th>Título</th>
+                        <th>Titulo</th>
                         <th>Autor</th>
                         <th>Precio</th>
+                        <th>Numero de Paginas</th>
                     </tr>
                     <xsl:for-each select="libreria/libro">
                     <tr>
                         <td><xsl:value-of select="isbn"/></td>
                         <td><xsl:value-of select="titulo"/></td>
                         <td><xsl:value-of select="autor"/></td>
-                        <td>
-                            <xsl:choose>
-                                <xsl:when test="precio &gt; 25">
-                                    <xsl:attribute name="bgcolor">#ff0000</xsl:attribute>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:attribute name="bgcolor">#00FF00</xsl:attribute>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                            <xsl:value-of select="precio"/>
-                        </td>
+                        <td><xsl:value-of select="precio"/></td>
+                        <td><xsl:if test="numPaginas &gt; 150">
+                            <xsl:attribute name="style">color:red;</xsl:attribute>
+                        </xsl:if>
+                        <xsl:value-of select="numPaginas"/></td>
                     </tr>
                     </xsl:for-each>
                  </table>
