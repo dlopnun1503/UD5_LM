@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<CDs>
+    <CD>
+        <titulo>YHLQMDLG</titulo>
+        <artista>Bad Bunny</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>Si Veo a Tu Mama</tituloCan>
+                <duracion>2:51</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Dificil</tituloCan>
+                <duracion>2:44</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Pero Ya No</tituloCan>
+                <duracion>2:53</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Santa</tituloCan>
+                <duracion>3:25</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Yo Perreo Sola</tituloCan>
+                <duracion>2:52</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Bichiyal</tituloCan>
+                <duracion>3:42</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Solia</tituloCan>
+                <duracion>2:44</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Zona</tituloCan>
+                <duracion>4:02</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Que Malo</tituloCan>
+                <duracion>2:48</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Vete</tituloCan>
+                <duracion>3:13</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Rimas Entertainment</selloDisc>
+        <anioPublicacion>2020</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>X100pre</titulo>
+        <artista>Bad Bunny</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>Ni Bien Ni Mal</tituloCan>
+                <duracion>4:20</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>200 MPH</tituloCan>
+                <duracion>4:25</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Quien Tu Eres?</tituloCan>
+                <duracion>3:25</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Caro</tituloCan>
+                <duracion>2:55</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Tenemos Que Hablar</tituloCan>
+                <duracion>3:09</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Otra Noche en Miami</tituloCan>
+                <duracion>4:05</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Ser Bichote</tituloCan>
+                <duracion>3:52</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Si Estuviesemos Juntos</tituloCan>
+                <duracion>2:35</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Solo de Mi</tituloCan>
+                <duracion>3:22</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Cuando Perriabas</tituloCan>
+                <duracion>3:00</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Romana</tituloCan>
+                <duracion>3:11</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Como Antes</tituloCan>
+                <duracion>3:52</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>RLNDT</tituloCan>
+                <duracion>3:05</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Estamos Bien</tituloCan>
+                <duracion>3:25</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Mia</tituloCan>
+                <duracion>3:31</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Rimas Entertainment</selloDisc>
+        <anioPublicacion>2018</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>El Ultimo Tour Del Mundo</titulo>
+        <artista>Bad Bunny</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>El mundo es mio</tituloCan>
+                <duracion>2:28</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Te mudaste</tituloCan>
+                <duracion>3:21</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Hoy cobre</tituloCan>
+                <duracion>3:30</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La noche de anoche</tituloCan>
+                <duracion>3:31</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Te deseo lo mejor</tituloCan>
+                <duracion>3:29</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Yo visto asi</tituloCan>
+                <duracion>3:43</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Haciendo que me amas</tituloCan>
+                <duracion>3:35</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Booker T</tituloCan>
+                <duracion>2:36</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La droga</tituloCan>
+                <duracion>2:33</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>120</tituloCan>
+                <duracion>3:14</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Antes que se acabe</tituloCan>
+                <duracion>3:12</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Cantares de navidad</tituloCan>
+                <duracion>2:58</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Rimas Entertainment</selloDisc>
+        <anioPublicacion>2020</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>Real Hasta La Muerte</titulo>
+        <artista>Anuel AA</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>Na Nuevo</tituloCan>
+                <duracion>3:24</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Quiere Beber</tituloCan>
+                <duracion>3:01</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Brindemos</tituloCan>
+                <duracion>3:12</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Yeezy</tituloCan>
+                <duracion>3:49</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Modo de Avion</tituloCan>
+                <duracion>3:25</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Bandolera</tituloCan>
+                <duracion>3:30</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Hipocrita</tituloCan>
+                <duracion>3:32</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Tu No Lo Amas</tituloCan>
+                <duracion>3:52</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Controla</tituloCan>
+                <duracion>4:04</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Real Hasta La Muerte, Inc.</selloDisc>
+        <anioPublicacion>2018</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>La Oscuridad</titulo>
+        <artista>Bryant Myers</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>La oscuridad</tituloCan>
+                <duracion>3:09</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>El que mas</tituloCan>
+                <duracion>3:33</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>En esta habitacion</tituloCan>
+                <duracion>3:09</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Doble Vida</tituloCan>
+                <duracion>3:03</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Vamos pa la calle</tituloCan>
+                <duracion>3:27</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Bebiendo y fumando</tituloCan>
+                <duracion>3:48</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Muy lejos</tituloCan>
+                <duracion>3:05</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>No te enredes</tituloCan>
+                <duracion>3:11</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Apaga la luz</tituloCan>
+                <duracion>3:15</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Dame un chance</tituloCan>
+                <duracion>3:06</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Real Hasta La Muerte, Inc.</selloDisc>
+        <anioPublicacion>2019</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>Colores</titulo>
+        <artista>J Balvin</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>Amarillo</tituloCan>
+                <duracion>2:53</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Azul</tituloCan>
+                <duracion>3:05</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Rojo</tituloCan>
+                <duracion>2:48</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Rosa</tituloCan>
+                <duracion>2:50</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Verde</tituloCan>
+                <duracion>3:15</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Negro</tituloCan>
+                <duracion>2:44</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Gris</tituloCan>
+                <duracion>3:28</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Arcoiris</tituloCan>
+                <duracion>3:18</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Morado</tituloCan>
+                <duracion>2:42</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Rojo</tituloCan>
+                <duracion>2:47</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Universal Music Latino</selloDisc>
+        <anioPublicacion>2020</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>Easy Money Baby</titulo>
+        <artista>Myke Towers</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>Inocente</tituloCan>
+                <duracion>3:37</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Diosa</tituloCan>
+                <duracion>3:37</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Girl</tituloCan>
+                <duracion>3:17</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Piensa En Mi</tituloCan>
+                <duracion>3:28</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Mami Linda</tituloCan>
+                <duracion>3:05</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Playa</tituloCan>
+                <duracion>3:05</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Movie</tituloCan>
+                <duracion>3:22</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>In My Feelings</tituloCan>
+                <duracion>3:33</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Tarjeta Roja</tituloCan>
+                <duracion>3:45</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Te Sone</tituloCan>
+                <duracion>3:14</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>One World Music</selloDisc>
+        <anioPublicacion>2020</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>Famouz</titulo>
+        <artista>Jhay Cortez</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>Easy</tituloCan>
+                <duracion>4:16</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>No Me Conoce</tituloCan>
+                <duracion>5:08</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Imaginaste</tituloCan>
+                <duracion>3:37</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Subiendo de Nivel</tituloCan>
+                <duracion>4:31</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Cuales</tituloCan>
+                <duracion>3:24</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Medusa</tituloCan>
+                <duracion>3:54</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>En Mi Cuarto</tituloCan>
+                <duracion>3:25</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Costear</tituloCan>
+                <duracion>3:29</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Nada De Nada</tituloCan>
+                <duracion>3:31</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Cien</tituloCan>
+                <duracion>4:04</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Universal Music Latino</selloDisc>
+        <anioPublicacion>2019</anioPublicacion>
+    </CD>
+    <CD>
+        <titulo>Inter Shibuya</titulo>
+        <artista>Feid</artista>
+        <canciones>
+            <cancion>
+                <tituloCan>Sigueme</tituloCan>
+                <duracion>3:38</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Para Todo</tituloCan>
+                <duracion>3:30</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Ferxxo</tituloCan>
+                <duracion>3:21</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Tour</tituloCan>
+                <duracion>3:21</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>El Pintao</tituloCan>
+                <duracion>3:30</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Torre</tituloCan>
+                <duracion>3:10</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>La Trapera</tituloCan>
+                <duracion>3:22</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Fuego</tituloCan>
+                <duracion>3:33</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Shabba</tituloCan>
+                <duracion>3:29</duracion>
+            </cancion>
+            <cancion>
+                <tituloCan>Ahi</tituloCan>
+                <duracion>3:13</duracion>
+            </cancion>
+        </canciones>
+        <selloDisc>Universal Music Latino</selloDisc>
+        <anioPublicacion>2021</anioPublicacion>
+    </CD>
+</CDs>
